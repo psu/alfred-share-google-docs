@@ -1,5 +1,7 @@
 # Share Google Docs
 
+[⤓ Download Workflow](https://github.com/psu/alfred-share-google-docs/raw/v1/Share%20Google%20Docs.alfredworkflow)
+
 ## About
 
 The workflow takes a Google Docs URL and modify it to create a share link for any of the following options:
